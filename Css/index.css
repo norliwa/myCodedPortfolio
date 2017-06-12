@@ -1,0 +1,16 @@
+
+
+ul {
+    list-style-type: none;
+    background-color: #fff;
+    float: right;
+
+}
+li {
+    display: inline;
+    padding: 60px;
+    font-size: 20px;
+    font-family: snell roundhand;
+    font-color: #3E383C;
+}
+
