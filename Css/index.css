@@ -1,16 +1,86 @@
 
+.nav ul a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Snell Roundhand;
+    font-size: 25px;
 
-ul {
-    list-style-type: none;
+}  
+.nav li a:hover {
+    color:#50E3C2;
+}
+
+body{
+	background-image: url("file:///Users/norabenmakhlouf/Documents/myCodedPortfolio/img/Desktop.png");
+	background-repeat: no-repeat;
+	background-size: cover;  
+}
+
+.qute {
+    color:#fff;
+    font-family: Snell Roundhand;
+    font-size: 25px;
+    text-align: center; 
+    padding: 25px;
+    margin-top: 30px;
+}
+:hover {
+    color:#50E3C2;
+}
+#tittle {
+    color: #fff;
+    font-family: arial;
+    font-size: 18px;
+    text-align: center; 
+    margin-top: 50px;
+
+
+}
+hr {
+    width: 250px;
+}
+.box {
+    width: 800px;
+    height: 1100px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 5%;
+}
+img {
+    height: 400px;
+    width: 700px;
+    margin-left: 50px;
+    border-radius: 5%;
+}
+#me {
+   font-family: Snell Roundhand;
+   font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 40px;
+}
+.about {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: arial;
+    text-align: center;
+
+}
+.social ul li {
     background-color: #fff;
-    float: right;
+    list-style: none;
+    display: inline-block;
+    padding: 2px;
+    border-radius: 20%;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 100px;
+    text-align: center;
+}
+.social ul a {
+ color: #001E1E;
+ font-size: 22px;   
 
 }
-li {
-    display: inline;
-    padding: 60px;
-    font-size: 20px;
-    font-family: snell roundhand;
-    font-color: #3E383C;
-}
-
