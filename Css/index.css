@@ -1,3 +1,17 @@
+body {
+    margin: 0;
+    padding:0;
+}
+.nav ul li {
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top:25px;
+    float: right; 
+} 
 
 .nav ul a {
     text-decoration: none;
